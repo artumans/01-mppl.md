@@ -1,7 +1,9 @@
-<h1>Jenis Jenis MPPL</h1>
+<h1>MPPL</h1>
 
 ## AGILE
+Agile Development Methods adalah sekelompok metodologi pengembangan perangkat lunak yang didasarkan pada prinsip-prinsip yang sama atau pengembangan sistem jangka pendek yang memerlukan adaptasi cepat dari pengembang terhadap perubahan dalam bentuk apapun. Agile development methods merupakan salah satu dari Metodologi pengembangan perangkat lunak yang digunakan dalam pengembangan perangkat lunak. Agile memiliki pengertian bersifat cepat, ringan, bebas bergerak, dan waspada. Sehingga saat membuat perangkat lunak dengan menggunakan agile development methods diperlukan inovasi dan responsibiliti yang baik antara tim pengembang dan klien agar kualitas dari perangkat lunak yang dihasilkan bagus dan kelincahan dari tim seimbang.
 
+# Metode yang termasuk di *AGILE*
 *<h3>Adaptive Software Devlopment (ASD)</h3>*
 
 Adaptive Software Development (ASD) merupakan suatu model pengembangan perangkat lunak yang tergolong dalam agile development methods yang diusulkan oleh Jim Highsmith. 
