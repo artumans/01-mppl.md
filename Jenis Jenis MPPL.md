@@ -114,7 +114,19 @@ Design and Iteration Build tercapai dalam sebuah rencana kotak waktu (time box p
 
 Fase ini meliputi transisi dari lingkungan pengembangan untuk lingkungan operasional. Tujuan utama dari tahap ini adalah untuk menempatkan sistem yang diuji ke dalam lingkungan pengguna dan melatih individu – individu untuk menggunakannya.
 
+# Klasik
 
+*<h3>Waterfall Model</h3>*
+
+Metode pengembangan sistem metode SDLC(Sistem Development Life Cycle) atau sering disebut sebagai pendekatan air terjun (waterfall).Metode waterfall pertama kali diperkenalkan oleh Windows W. Royce pada tahun 1970. Waterfall merupakan model klasik yang sederhana dengan aliran sistem yang linier Output dari setiap tahap merupakan input bagi tahap berikutnya (Kristanto, 2004). Model ini melibatkan penyelesaian satu tahap secara lengkap sebelum melangkah ke tahap berikutnya. Ketika satu tahap selesai langsung dilakukan evaluasi untuk memastikan proyek berjalan sesuai rencana dan layak diteruskan ke tahap berikutnya. Waterfall Model, disebut juga model klasik, memiliki beberapa tahap utama, yaitu analisis dan rekayasa sistem, perancangan, penulisan program, pengujian, dan pemeliharaan.
+
+*<h3>Model Prototype</h3>*
+
+Metode Prototype merupakan suatu paradigma baru dalam metode pengembangan perangkat lunak dimana metode ini tidak hanya sekedar evolusi dalam dunia pengembangan perangkat lunak, tetapi juga merevolusi metode pengembangan perangkat lunak yang lama yaitu sistem sekuensial yang biasa dikenal dengan nama SDLC atau waterfall development model. Dalam Model Prototype, prototype dari perangkat lunak yang dihasilkan kemudian dipresentasikan kepada pelanggan, dan pelanggan tersebut diberikan kesempatan untuk memberikan masukan sehingga perangkat lunak yang dihasilkan nantinya betul-betul sesuai dengan keinginan dan kebutuhan pelanggan.
+
+*<h3>Model Rapid Application Development (RAD)</h3>*
+
+Rapid Aplication Development (RAD) adalah sebuah model proses perkembangan perangkat lunak sekuensial linier yang menekankan siklus perkembangan yang sangat pendek (kira-kira 60 sampai 90 hari). Model RAD ini merupakan sebuah adaptasi “kecepatan tinggi” dari model sekuensial linier dimana perkembangan cepat dicapai dengan menggunakan pendekatan konstruksi berbasis komponen.
 
 
 
